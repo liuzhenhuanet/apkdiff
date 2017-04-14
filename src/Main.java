@@ -9,7 +9,7 @@ public class Main {
             usage();
             return;
         }
-//        args = new String[]{"C:\\Users\\buding03\\Desktop\\test\\cn.buding.martin__gfan__6.5.0__650.zip", "C:\\Users\\buding03\\Desktop\\test\\cn.buding.martin__qq__6.5.0__650.zip"};
+
         File baseApk = new File(args[0]);
         File otherApk = new File(args[1]);
         ApkFile apkFile = new ApkFile();
