@@ -8,8 +8,8 @@ or
   
   
 output:  
->多余：  
-……   
+>多余：  
+……  
 other_app.apk中有的文件但是base_app.apk没有的文件   
 ……  
 缺失：  
