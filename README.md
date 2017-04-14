@@ -7,10 +7,9 @@ or
 `java -jar apkdiff.jar base_app.apk dir_of_other_apps`  
   
   
-output:
->  
-多余：  
-……   
+output:  
+>多余：  
+……   
 other_app.apk中有的文件但是base_app.apk没有的文件   
 ……  
 缺失：  
